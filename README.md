@@ -1,1 +1,1 @@
-# Equipo5_Deep_Learning
+# Equipo5_DeepLearning
